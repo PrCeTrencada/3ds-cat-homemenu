@@ -16,7 +16,7 @@ Consulteu la resta de traduccions per a aplicacions i serveis de 3DS des dels re
 - [Instal·lació](#installació)
 
 
-### Crèdits
+## Crèdits
 
 - **Luna Caoimhe**: Extracció de textos i traducció de l'aplicació.
 
@@ -25,7 +25,7 @@ Consulteu la resta de traduccions per a aplicacions i serveis de 3DS des dels re
 - **Projecte 'Ce Trencada'**: Coordinació i suport tecnicolingüístic.
 
 
-### Instal·lació
+## Instal·lació
 
 El mètode recomanat d'instal·lació és mitjançant l'aplicació [PCT-3DS](https://github.com/PrCeTrencada/pct-3ds), amb la qual podeu instal·lar i gestionar la traducció d'aquesta i demés aplicacions i serveis de la 3DS.
 
