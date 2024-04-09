@@ -1,7 +1,9 @@
 # 3DS-CAT: Menú d'Inici (Home Menu) en català
  
 *Title: Home Menu*
+
 *Title ID: 0004003000009802*
+
 
 Per a poder instal·lar i fer servir aquesta traducció cal disposar d'una consola de la *Família 3DS* amb el CFW *Luma3DS*. Si la vostra consola no té CFW us recomanem que seguiu la següent guia: [3ds.hacks.guide](https://3ds.hacks.guide/).
 
@@ -30,7 +32,7 @@ El mètode recomanat d'instal·lació és mitjançant l'aplicació [PCT-3DS](htt
 Alternativament, podeu instal·lar la traducció de forma manual seguint els següents passos:
 
 - Enceneu la consola mantenint premut el botó **SELECT**.
-    - Si us apareix el menú de configuració de Luma3DS (), moveu-vos amb la creueta fins a «**Enable game patching**» i activeu-ho prement el botó **A**. Si ja ho està, no feu res. Un cop activat, premeu **START** per tornar a l'inici de la consola.
+    - Si us apareix el menú de configuració de Luma3DS (sabreu que ho és perquè a la pantalla superior ho posa), moveu-vos amb la creueta fins a «**Enable game patching**» i activeu-ho prement el botó **A**. Si ja ho està, no feu res. Un cop activat, premeu **START** per tornar a l'inici de la consola.
     - Si **NO** us apareix aquest menú i enlloc us apareix el menú d'inici de la consola directament, no teniu Luma3DS instal·lat (o no ho està correctament). Per a instal·lar-lo, seguiu el tutorial de [3ds.hacks.guide](https://3ds.hacks.guide/). Un cop fet, torneu a començar aquest llistat.
 - Baixeu la darrera versió de la traducció des de l'apartat de «[Releases](https://github.com/PrCeTrencada/3ds-cat-homemenu/releases/latest)» clicant sobre el fitxer anomenat «**3DS-CAT-HomeMenu.zip**».
 - Apagueu la consola i introduïu la targeta SD a un ordinador (o dispositiu compatible).
