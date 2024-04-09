@@ -20,7 +20,7 @@ Consulteu la resta de traduccions per a aplicacions i serveis de 3DS des dels re
 
 - **[Luna Caoimhe](https://twitter.com/LunaValoaa)**: Extracció de textos i traducció de l'aplicació.
 
-- **[Nil Caballero i Milà](https://twitter.com/PelochoRockea)**: Gestió dels recursos.
+- **[Nil Caballero i Milà](https://github.com/Nilcm01)**: Gestió dels recursos.
 
 - **[Projecte 'Ce Trencada'](https://cetrencada.cat)**: Coordinació i suport tecnicolingüístic.
 
